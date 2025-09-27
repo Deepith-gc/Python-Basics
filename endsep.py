@@ -1,0 +1,7 @@
+print('Good evening',end='$')
+print('Ram')
+print('Welcome',end='!')
+print('')
+print(10,20,30,40,'@',sep=',')
+print('Hello',end='!')
+print('everyone')
